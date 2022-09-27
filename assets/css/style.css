@@ -1,0 +1,93 @@
+
+*{
+    margin:0;
+    padding: 0;
+    
+}
+
+.foto-perfil{
+    border-radius: 100%;
+    max-width: 300px;
+    padding: 50px;
+  
+}
+
+
+body{
+    background-color: rgb(234, 248, 255);
+   display: flex;
+  
+  }
+
+.container1{
+   padding: 10px;
+   background-color: rgb(40, 86, 236);
+}
+
+.container2{
+    padding: 100px;
+}
+
+.nome h1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+.job h4{
+    color: white;
+    font-size: 18px;
+}
+
+hr{
+    background-color: white;
+    height: 4px;
+    border: none;
+}
+
+.container1 h3{
+    color: white;
+   font-size: 20px;
+   
+}
+
+.container1 p {
+    color: white;
+}
+
+.contato a{
+    color: white;
+}
+
+.contato{
+    color: white;
+}
+
+.habilidades{
+    color: white
+}
+
+.container2 h2{
+    font-family: 'Courier New', Courier, monospace;
+  
+    font-weight: bold;
+    color:  rgb(40, 86, 236);
+}
+
+.data h3{
+    color: gray;
+    font-size: 18px;
+}
+
+.funcao h3{
+    font-size: 23px;
+}
+
+.faculdade h3{
+    font-size: 23px;
+}
+
+.curso h3{
+    font-size: 23px;
+}
+
